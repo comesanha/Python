@@ -9,5 +9,5 @@ Restições de acesso: Nenhuma
 peso = float(input('Qual o seu peso?'))
 altura = float(input('Qual sua altura?'))
 imc = peso / (altura) ** 2
-print('Sue IMC é: {}!'.format(str(imc)))# Saída Formatada
-
+print('Para o peso {0} e a altura {1}, O IMC é: {2}!'.format(peso, altura, imc ))  # Saída Formatada, em que 0, 1 E 2 são índices
+# do comando .format.

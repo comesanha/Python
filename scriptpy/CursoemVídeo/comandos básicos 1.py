@@ -35,14 +35,13 @@ print('Cadastro realizado com sucesso!')
 Crie um script pytho que leia o dia, o mês e o ano do nascimento de uma pessoa
 e mostre uma mensagem com a data formatada.
 '''
-
+'''
 dia = input('Qual o dia de seu nascimento?')
 mes = input('Qual o mês de seu nascimento?')
 ano = input('Qual o ano de seu nascimento?')
 print('A sua data de nascimeto é',dia+'/'+mes+'/'+ano+'.','Correto?')
-
-
-#Desafio 3 
+'''
+#Desafio 3
 '''
 Crie um script python que leia dois números e mostre a soma entre eles.
 '''
